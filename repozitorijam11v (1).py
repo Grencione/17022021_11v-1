@@ -11,7 +11,7 @@ print(5+6)
 #4)Dunajevs Mârtiòð
 
 #5)Gulbis Kristaps
-print(420**2)
+print(420**2+21)
 #6)Kalniòa Agnese
 
 #7) Knope Elizabete
